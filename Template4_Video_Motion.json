@@ -1,0 +1,37 @@
+{
+  "subject": "An elderly Tamil woman in her late 60s with silver-streaked hair tied in a loose kondai bun, wearing a handloom Madurai Sungudi cotton sari in deep maroon with a mustard tie-dye border, small gold jhumkas, and a simple kumkum bottu, leaning forward to draw a geometric pulli kolam using wet rice flour paste between her thumb and forefinger",
+  "setting": {
+    "place": "The front thinnai verandah and swept threshold of a 1920s Chettinad mansion in Karaikudi, Tamil Nadu, featuring carved Burma teak pillars, Athangudi handmade patterned floor tiles, lime-plastered walls, and a small lit brass kuthuvilakku lamp resting on a banana leaf beside a brass sombu of water",
+    "era": "Contemporary everyday heritage, timeless rural Tamil Nadu",
+    "time_of_day": "Margazhi pre-dawn blue hour, 5:45 AM"
+  },
+  "lighting": "Cool indigo ambient twilight contrasting with the warm, flickering golden glow of the single oil wick lamp on the floor, soft diffused shadows",
+  "camera": {
+    "shot": "Medium wide environmental portrait",
+    "lens": "35mm prime lens, f/2.8",
+    "angle": "Eye-level slightly angled along the verandah pillars to show architectural depth"
+  },
+  "palette": [
+    "Deep maroon",
+    "Terracotta red oxide",
+    "Indigo dawn blue",
+    "Warm brass gold",
+    "Crisp rice-flour white"
+  ],
+  "style": "Naturalistic documentary cinematography, 24fps, subtle 35mm film grain, authentic skin texture",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "North Indian bridal jewelry",
+    "lehenga",
+    "heavy makeup",
+    "plastic buckets or modern slippers",
+    "neon colors",
+    "morphing hands",
+    "fast jerky camera movements"
+  ],
+  "motion": {
+    "subject_motion": "Her right hand moves steadily and gracefully, guiding a continuous thin stream of rice flour around the dots of the kolam while the flame of the brass kuthuvilakku flickers gently in the morning breeze",
+    "camera_move": "Slow, subtle dolly push-in toward the kolam and lamp",
+    "duration_seconds": 5
+  }
+}

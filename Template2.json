@@ -1,0 +1,34 @@
+{
+  "subject": "An elderly Tamil woman in her late 60s with silver-streaked hair tied in a loose kondai bun, wearing a handloom Madurai Sungudi cotton sari in deep maroon with a mustard tie-dye border, small gold jhumkas, and a simple kumkum bottu, leaning forward to draw a geometric pulli kolam using wet rice flour paste between her thumb and forefinger",
+  "setting": {
+    "place": "The front thinnai verandah and swept threshold of a 1920s Chettinad mansion in Karaikudi, Tamil Nadu, featuring carved Burma teak pillars, Athangudi handmade patterned floor tiles, lime-plastered walls, and a small lit brass kuthuvilakku lamp resting on a banana leaf beside a brass sombu of water",
+    "era": "Contemporary everyday heritage, timeless rural Tamil Nadu",
+    "time_of_day": "Early morning golden hour, 7:15 AM"
+  },
+  "lighting": "Low-angle warm morning sunlight slanting across the courtyard, casting long architectural pillar shadows and illuminating dust motes in the air",
+  "camera": {
+    "shot": "Medium wide environmental portrait",
+    "lens": "35mm prime lens, f/2.8",
+    "angle": "Eye-level slightly angled along the verandah pillars to show architectural depth"
+  },
+  "palette": [
+    "Deep maroon",
+    "Terracotta red oxide",
+    "Indigo dawn blue",
+    "Warm brass gold",
+    "Crisp rice-flour white"
+  ],
+  "style": "Naturalistic documentary photography, candid 35mm film grain, authentic skin texture, unposed editorial realism",
+  "aspect_ratio": "4:5",
+  "avoid": [
+    "North Indian bridal jewelry",
+    "lehenga",
+    "heavy makeup",
+    "plastic buckets or modern slippers",
+    "neon colors",
+    "oversaturated HDR",
+    "staged stock-photo smiles",
+    "extra fingers",
+    "AI smooth skin"
+  ]
+}
